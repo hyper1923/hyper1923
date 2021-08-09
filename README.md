@@ -1,4 +1,4 @@
-<div align="center">
+
   
 ```cpp
 #include <hyper.hpp>
@@ -14,7 +14,7 @@ int main(){
   return 0;
 }
 ```
-</div>
+
 <div align="center">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/manjora-512.png" height="175" width="175" style="margin: 10px">
 <img src="http://2.bp.blogspot.com/-A5NSDMQ5bwo/Vi2VNq6kgTI/AAAAAAAAABg/X93YbJLOuR0/s1600/old_logo.png" height="175" width="175" style="margin: 10px">
