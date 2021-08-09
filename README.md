@@ -29,5 +29,5 @@ int main(){
 
 [![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://manjora.org/)
 [![Generic badge](https://img.shields.io/badge/desktop-kde-darkblue.svg)](https://www.kde.org/)
-[![Generic badge](https://img.shields.io/static/v1?label=Reddit&message=hyper1923&color=1232143)(https://reddit.com/u/hyper1923)
+[![Generic badge](https://img.shields.io/static/v1?label=Reddit&message=hyper1923&color=1232143)](https://reddit.com/u/hyper1923)
 </div>
