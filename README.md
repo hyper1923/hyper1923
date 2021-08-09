@@ -23,5 +23,5 @@ int main(){
   
 
 [![Generic badge](https://img.shields.io/badge/distribution-arch-cyan.svg)](https://manjora.org/)
-[![Generic badge](https://img.shields.io/badge/desktop-gnome-darkblue.svg)](https://www.kde.org/)
+[![Generic badge](https://img.shields.io/badge/desktop-kde-darkblue.svg)](https://www.kde.org/)
 </div>
