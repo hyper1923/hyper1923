@@ -15,7 +15,9 @@ int main(){
   return 0;
 }
 ```
-  </div>
+</div>
+
+15 year old loves programming software.
 
 <div align="center">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="175" width="175" style="margin: 10px">
