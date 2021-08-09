@@ -1,4 +1,5 @@
 
+<div align="left">
   
 ```cpp
 #include <hyper.hpp>
@@ -14,10 +15,11 @@ int main(){
   return 0;
 }
 ```
+  </div>
 
 <div align="center">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="175" width="175" style="margin: 10px">
-<img src="https://kde.org/stuff/clipart/logo/kde-logo-white-gray-source.svg" height="175" width="175" style="margin: 10px">
+<img src="https://kde.org/stuff/clipart/logo/kde-logo-blue-transparent-source.svg" height="175" width="175" style="margin: 10px">
 <br>
 <br>
   
