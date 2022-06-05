@@ -2,17 +2,11 @@
 <div align="left">
   
 ```cpp
-#include <hyper.hpp>
-  
-
-int main(){
-  while(1){
-    HyperLife::WakeUp(Clock::getNow());
-    HyperLife::Wait(10.f);
-    HyperLife::MakeBreakfast(Clock::getNow());
-    HyperLife::WriteCode(Languages::cpp);
-  }
-  return 0;
+#include <iostream>
+ 
+fn main() -> int {
+    printf("Hello, World from github.com/hyper1923!\n\r");
+    exit(EXIT_SUCCESS);
 }
 ```
 </div>
